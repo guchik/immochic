@@ -24,8 +24,10 @@
     },
     "versionFirst": "3.10.2",
     "uniqCompNum": 19,
-    "versionPublish": "4.6.2",
-    "path": "@PROJECT_PATH@"
+    "versionPublish": "4.12.4",
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "imageResize": true
   },
   "pages": {
     "index.html": {
